@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm <a href="https://github.com/dcanitez">Dilay</a></h2>
-<h3 align="center">I am new around here and becoming .Net Developer ⏳</h3> 
+<h3 align="center">I am new around here and becoming FullStack Developer- .Net && React ⏳</h3> 
 </br>
 💻 <strong>About Me:</strong><br>
 - 🎓 I am graduated from Bilkent University, Industrial Engineering Department</br>
